@@ -7,3 +7,5 @@ The install script does not include any images.
 
 Use the Manage Cards menu item to add images to your records.
 
+Oracle APEX version: 20.1.0.00.13
+
